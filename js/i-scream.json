@@ -22,6 +22,20 @@
             "type": "milkshake",
             "ingredients": ["Strawberry Syrup", "Sprinkles", "Vanilla Base"],
             "image": "https://priyansht.github.io/24W-JavaScript-LH-Week11/images/strawberry-sprinkle.svg"
+        },
+        {
+            "name": "Chocolate Chunk",
+            "calories": 450,
+            "type": "ice-cream",
+            "ingredients": ["Oreo Crumbs", "Reese's Minis", "Vanilla Base"],
+            "image": "https://priyansht.github.io/24W-JavaScript-LH-Week11/images/ice-cream-xtra2.svg"
+        },
+        {
+            "name": "Key Lime",
+            "calories": 350,
+            "type": "milkshake-type ice-cream",
+            "ingredients": ["Whipped Cream", "Vanilla Wafer Crumbs", "Lime Base"],
+            "image": "https://priyansht.github.io/24W-JavaScript-LH-Week11/images/ice-cream-xtra1.svg"
         }
     ]
 }
